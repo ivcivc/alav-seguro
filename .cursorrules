@@ -1,0 +1,10 @@
+Criar um aplicação web responsivel em nuxtjs taailwind headless para controle de corretora de seguros que pode:
+- Criar usuários, regras e permissões (cadastro completo de controle de usuários)
+- Cadastro de seguradoras (dados da seguradora e regra de pagamento de corretagem. exemplo: seguro pago em até 3 parcelas, pagar corretagem parcela única. acima de 4 parcelas, pagar corretagem parcelada.)
+- Cadastro de Segurado (nome, apelido, formas de contato, data nascimento, endereço, etc
+- Cadastro de apólices de seguros (aceita diversas modalidades de seguro como vida, incêndio, veículo, frota de veículos, etc. Quando o seguro for de veículo(s) ajustar tela para solicitar informações detalhada do veículo. Cadastrar também a vigência da apólice, coberturas contratadas e pagamento e comissão).
+- Controle de recebimento de comissões
+- Relatórios diversos
+- Dashboard completo
+
+Português Brasileiro
